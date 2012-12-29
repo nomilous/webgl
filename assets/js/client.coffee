@@ -6,6 +6,6 @@ namespace 'et'
 
         .factory( 'visualise', et.Visualise )
 
-        .factory( 'control', et.Control )
+        .factory( 'controls', et.Controls )
 
         .directive( 'etViewport', et.ViewportDirective )

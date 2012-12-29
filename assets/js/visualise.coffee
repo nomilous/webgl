@@ -6,13 +6,9 @@ namespace 'et'
 
         constructor : (log) ->
 
-            log.info "init Visualise"
-
-
             @camera   = null
             @scene    = null
             @renderer = null
-            
 
             @init = (element) -> 
 

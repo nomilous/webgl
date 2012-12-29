@@ -1,4 +1,4 @@
 //= require 'viewport-directive'
 //= require 'visualise'
-//= require 'control'
+//= require 'controls'
 //= require 'client'
