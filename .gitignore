@@ -1,3 +1,6 @@
+#temporary
+docs
+node_modules
 lib-cov
 *.seed
 *.log
@@ -12,3 +15,6 @@ logs
 results
 
 npm-debug.log
+
+*DS_Store
+dump.rdb
